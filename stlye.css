@@ -18,3 +18,42 @@ div{
 p{
       text-align: center;
 }
+h1{
+      text-decoration: dashed underline;
+}
+h2{
+      text-decoration: dashed underline;
+}
+h3{
+      text-decoration: dashed underline;
+}
+h4{
+      text-decoration: dashed underline;
+}
+h5{
+      text-decoration: dashed underline;
+}
+h6{
+      text-decoration: dashed underline;
+}
+.bold-text{
+      font-weight: bold;
+}
+#myid{
+    font-weight:300;  
+}
+body{
+      font-family:Arial, Helvetica, sans-serif;
+}
+.custom-font{
+      font-family: 'Times New Roman', Times, serif;
+}
+anchor{
+      text-decoration:line none ;
+}
+h1{
+      text-transform: uppercase;
+}
+.capitalize-text{
+      text-transform: capitalize;
+}
