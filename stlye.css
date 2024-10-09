@@ -12,3 +12,9 @@ p{
 .highlight{
       color: green;
 }
+div{
+      color: yellow;
+}
+p{
+      text-align: center;
+}
