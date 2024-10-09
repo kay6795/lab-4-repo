@@ -2,21 +2,10 @@ header{
       background-color: blue;
       color: white;
 }
-
-div{
-      background-color: lightgray;
+.container{
+      background-color: lightgrey;
       color: black;
-      p{
-            color: red;
-      }
-}
-paragraph-class{
-      color: green;
-}
-
-div{
-    background-color: yellow;  
 }
 p{
-      text-align:center ;
+      color: red;
 }
