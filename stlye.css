@@ -1,0 +1,22 @@
+header{
+      background-color: blue;
+      color: white;
+}
+
+div{
+      background-color: lightgray;
+      color: black;
+      p{
+            color: red;
+      }
+}
+paragraph-class{
+      color: green;
+}
+
+div{
+    background-color: yellow;  
+}
+p{
+      text-align:center ;
+}
